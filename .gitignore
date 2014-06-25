@@ -5,9 +5,9 @@ target/
 .classpath
 .project
 .settings/
-
-
-
+src/JavaServerFaces/
+src/SpringIntegration/
+.gitignore
 
 
 # Mobile Tools for Java (J2ME)
